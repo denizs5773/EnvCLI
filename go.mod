@@ -13,3 +13,4 @@ go 1.22
 # guard against empty input
 # drop an unused branch
 # clarify the control flow
+# drop an unused branch
